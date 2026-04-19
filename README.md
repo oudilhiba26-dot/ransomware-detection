@@ -224,7 +224,7 @@ Les modèles sont évalués selon :
 
 ## 👥 Auteurs
 
-Projet réalisé par : Équipe de Data Science
+Projet réalisé par : Hiba OUDIL - Ikram SAIDI - Kaoutar BAALA
 
 ---
 
@@ -237,10 +237,3 @@ Projet réalisé par : Équipe de Data Science
 
 ---
 
-## 📞 Support
-
-Pour des questions ou améliorations, veuillez consulter la documentation dans les en-têtes de chaque script.
-
----
-
-**Dernière mise à jour :** 2026-04-19
