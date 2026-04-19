@@ -224,7 +224,7 @@ Les modèles sont évalués selon :
 
 ## 👥 Auteurs
 
-Projet réalisé par : Hiba OUDIL - Ikram SAIDI - Kaoutar BAALA
+Projet réalisé par : Hiba OUDIL - Ikram SAAIDI - Kaoutar BAALA
 
 ---
 
